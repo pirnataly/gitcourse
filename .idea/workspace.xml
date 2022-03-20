@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d49b3723-e5d2-4a6d-a6dd-a807684ae688" name="Default Changelist" comment="" />
+    <list default="true" id="d49b3723-e5d2-4a6d-a6dd-a807684ae688" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -28,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/Наташа/Webstorm projects" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,6 +45,8 @@
       <updated>1647518750326</updated>
       <workItem from="1647518751670" duration="3847000" />
       <workItem from="1647531917020" duration="177000" />
+      <workItem from="1647760484249" duration="917000" />
+      <workItem from="1647761920275" duration="124000" />
     </task>
     <servers />
   </component>
@@ -49,9 +54,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1647531947193">
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1647761955606">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1647531947193" />
+    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1647761955606" />
   </component>
 </project>
